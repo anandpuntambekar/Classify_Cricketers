@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/file/d/1QxnuWfs9c1NYBeiSp7zVkiIvqUf-gFPc/view?usp=sharing'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1QxnuWfs9c1NYBeiSp7zVkiIvqUf-gFPc'
 export_file_name = 'export_3.pkl'
 
 classes = ['AB de Villiers', 'Brian Lara', 'Other Cricketer', 'Rahul Dravid', 'Rohit Sharma', 'Sachin Tendulkar','Shane Warne','Virat Kolhi']
