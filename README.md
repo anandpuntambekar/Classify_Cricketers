@@ -1,7 +1,7 @@
-# An web based image classifier to classify cricketers 
+# An Web based image Classifier to Classify Cricketers 
 
 
-Classify cricketers such as 'AB de Villiers', 'Brian Lara', 'Rahul Dravid', 'Rohit Sharma', 'Sachin Tendulkar', 'Shane Warne', 'Virat Kolhi', 'Other Cricketers'
+## Classify cricketers such as 'AB de Villiers', 'Brian Lara', 'Rahul Dravid', 'Rohit Sharma', 'Sachin Tendulkar', 'Shane Warne', 'Virat Kolhi', 'Other Cricketers'
 
 Code: [Kaggle_Kernal](https://www.kaggle.com/anandpuntambekar/end-to-end-image-classification-for-cricketers) 
 
