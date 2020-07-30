@@ -11,6 +11,8 @@ WebApp: [Link](https://cricekter-classifier.onrender.com/)
 
 [Youtube](https://www.youtube.com/watch?v=9JWmaScqY3s)
 
+[Medium Blog](https://medium.com/analytics-vidhya/end-to-end-image-classification-web-app-blog-kaggle-kernel-69703e96dbdb)
+
 We will learn and execute the following points:
 
 - Getting started and Data Set up
